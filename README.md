@@ -61,8 +61,10 @@
 ## Experience 🚀
 
 - 👨‍💻 **Front-End Developer**\
-📆 2021 - Moment\
+📆 04-2021 - 12-2021\
 📍 **Loro** - Colombia
+📆 2022 - Moment\
+📍 **CloudAppi** - LAtam
 
 </details>
 
