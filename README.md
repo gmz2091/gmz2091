@@ -63,8 +63,10 @@
 - 👨‍💻 **Front-End Developer**\
 📆 04-2021 - 12-2021\
 📍 **Loro** - Colombia
+  
+- 👨‍💻 **Front-End Developer**\
 📆 2022 - Moment\
-📍 **CloudAppi** - LAtam
+📍 **CloudAppi** - LATAM
 
 </details>
 
